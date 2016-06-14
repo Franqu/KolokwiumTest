@@ -10,7 +10,7 @@ namespace kolkwiumTest
     {
         public void Zadanie()
         {
-
+            //Todo method resolving task granted on paper
         }
        public static void Main(string[] args)
         {
